@@ -1,8 +1,0 @@
-luckyword: mmb
-
-info:
-  foo: the next new value
-  
-my:
-  password: '{cipher}AQAocTA7Pf0ZIGX25qeXzyhLhq1gYOmdn8hYGnS2CLfoav13jc/pKerAdcfr27sn9Gt9x/7sl7DxT8L7kGOebFZ1SBOvIAPbjs7ELD6xv397RfYTjr1ICbCNJcy/kmnJzznsblAC+8ezuWX3eJ4IucDAI0SIzROW/1zfHWBUzokpie6OyAUSSTswXoSVgN5mfL56GaaUz8XrhDsV77RET15PExLa+7CbRU0N04DVH+UB5nYcCMDMl1oRtsttBrnS6Tm+vnFcJmdk+mT3rHXU5A2cPBajbmjPVygCo5QsCgaIwq760Nhh2GC78v4JYX9DPMCtwHUjv/kbZ0IVwp6XnN2CrRQtVWDeNpakINxIKJBMmkKCs1CurynxvJ+EVrtE8Gc='
-  #password: cleartext
